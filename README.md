@@ -5,7 +5,7 @@ Topics Covered Are-
 
 1] Operators in java - Arithematic , Assignment , Logical and Comparision Operators\
 2] Array \
-        a] Ways of printing the array .\
+       &nbsp a] Ways of printing the array .\
         b] 1d Array\
         c] 2d Array\
 3] Conditional Statement\
