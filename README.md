@@ -1,35 +1,25 @@
-# Core-Java
-Core java require for Automation 
+# Core Java for Automation Testing
 
-Topics Covered Are-
+A brief description of what this project does and who it's for
 
-1] Operators in java - Arithematic , Assignment , Logical and Comparision Operators\
-2] Array \
-   a] Ways of printing the array .\
-   b] 1d Array\
-       -   c] 2d Array\
-3] Conditional Statement\
-       - a] If Statement\
-       - b] If Else Statement\
-       - c] If else-if else Statement\
-       - d] Switch Case Statement\
-4] Data Types in Java\
-       - a] Primitive Data types\
-       - b] Non-primitive data types\
-5] Loop \
-       - a] For Loop\
-       - b] While Loop\
-6] Methods in Java\
-       - a] Static and non-static methods\
-       - b] Parametric method\
-7] Casting \
-       - a] Narrow Casting \
-       - b] Widening Casting\
-8] OOPs Concepts \
-       - a] Inheritance\
-       - b] Polymorphism\
-       - c] Abstraction\
-       - d] Encapsulation
-       
+
+## Syllabus
+
+- Introduction to java - first program
+- Data Types in Java
+- Operators in Java - (Arithematic , Assignment , Logical and Comparision Operators)
+- String Operations
+- Arrays - One dimension Array
+         - Two dimension Array
+- OOPs Concept-( Abstraction 
+         - Encapsulation.
+         - Polymorphism
+         - Inheritannce)
+- Exception Handling     
+- Conditional Block.
+- Loops
+- Casting - ( Widening Casting , narrow casting )
+- Methods in Java
+
 
         
