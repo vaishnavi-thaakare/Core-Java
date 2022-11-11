@@ -20,6 +20,9 @@ A brief description of what this project does and who it's for
 - Loops
 - Casting - ( Widening Casting , narrow casting )
 - Methods in Java
+- Modifiers
+- Collections
+- Constructor
 
 
         
